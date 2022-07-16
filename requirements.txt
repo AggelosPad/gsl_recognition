@@ -234,11 +234,6 @@ python-kucoin==2.1.2
 python-telegram-bot==13.5
 PyTweening==1.0.3
 pytz==2020.1
-PyVirtualDisplay==2.2
-pywebcopy==6.3.0
-pywin32==300
-pywin32-ctypes==0.2.0
-pywinpty==1.0.1
 PyYAML==5.4.1
 pyzmq==22.0.3
 pyzstd==0.14.4
