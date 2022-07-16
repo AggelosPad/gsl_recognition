@@ -4,9 +4,10 @@ Greek Sign Language fingerspelling recognition
 
 This repo was developed as part of my diplome thesis
 
+Code is written using Python 3.10
+
 To run this repo:
 
-Code is written using Python 3.10
 
 Firstly:
 
